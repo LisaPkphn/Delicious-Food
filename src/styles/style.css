@@ -1,0 +1,24 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+  }
+  
+  body {
+    background-color: white;
+    font-family: sans-serif;
+  }
+  
+  main {
+    margin: 35px auto;
+    width: 100%;
+    max-width: 900px;
+  }
+  
+  food-list {
+    display: block;
+    padding: 18px;
+    width: 100%;
+    margin-top: 30px;
+  }
